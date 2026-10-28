@@ -111,8 +111,7 @@ I am currently looking for **Java Full Stack, Backend, or Software Engineer inte
 
 ## Problem solving
 
-- **200+ LeetCode problems solved in C++**, covering arrays, strings, hashing, linked lists, stacks, binary search, trees, sliding window, and dynamic programming.
-- **89 solutions published** with per-problem notes in [DSA-LeetCode](https://github.com/riyapawar18/DSA-LeetCode).
+- **200+ LeetCode problems solved in C++** — 89 published solutions in [DSA-LeetCode](https://github.com/riyapawar18/DSA-LeetCode) spanning arrays, strings, linked lists, stacks, binary trees/BSTs, sliding window, and binary search.
 
 ## Achievements and leadership
 
