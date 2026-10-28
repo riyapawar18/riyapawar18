@@ -11,6 +11,7 @@
 <p align="center">
   <a href="mailto:riyapawar054@gmail.com"><img src="https://img.shields.io/badge/Email-riyapawar054%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/riyapawar18"><img src="https://img.shields.io/badge/GitHub-riyapawar18-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/riya-pawar-1a204b389"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Pawar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -140,6 +141,7 @@ Worked on secure web application features and backend services, and integrated R
 I am open to **Java Full Stack, Backend, and Software Engineer internship / fresher opportunities**.
 
 - **Email:** [riyapawar054@gmail.com](mailto:riyapawar054@gmail.com)
+- **LinkedIn:** [linkedin.com/in/riya-pawar-1a204b389](https://www.linkedin.com/in/riya-pawar-1a204b389)
 - **GitHub:** [github.com/riyapawar18](https://github.com/riyapawar18)
 
 The best way to evaluate my work is to open a repository, follow its setup section, and read the limitations alongside the features.
