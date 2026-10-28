@@ -12,6 +12,7 @@
   <a href="mailto:riyapawar054@gmail.com"><img src="https://img.shields.io/badge/Email-riyapawar054%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/riyapawar18"><img src="https://img.shields.io/badge/GitHub-riyapawar18-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/riya-pawar-1a204b389"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Pawar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/riyapawar18/"><img src="https://img.shields.io/badge/LeetCode-riyapawar18-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
 ---
@@ -92,7 +93,7 @@ I am currently looking for **Java Full Stack, Backend, or Software Engineer inte
 
 | Repository | What it contains |
 | --- | --- |
-| [DSA-LeetCode](https://github.com/riyapawar18/DSA-LeetCode) | 89 published C++ solutions with notes, organized by problem (part of 200+ problems solved) |
+| [DSA-LeetCode](https://github.com/riyapawar18/DSA-LeetCode) | 94 published solutions (89 C++, 4 Java, 1 SQL) with notes, organized by problem |
 | [java-resume-management-system](https://github.com/riyapawar18/java-resume-management-system) | Spring Boot, MySQL, JPA/Hibernate, Thymeleaf resume management app with CRUD REST APIs |
 | [Invoice-Chain](https://github.com/riyapawar18/Invoice-Chain) | React invoice-financing prototype with wallet connection, invoice minting, and escrow-status UI ([live demo](https://invoice-chain-rosy.vercel.app)) |
 | [Python](https://github.com/riyapawar18/Python) | Python and machine-learning practice notebooks |
@@ -112,7 +113,8 @@ I am currently looking for **Java Full Stack, Backend, or Software Engineer inte
 
 ## Problem solving
 
-- **200+ LeetCode problems solved in C++** — 89 published solutions in [DSA-LeetCode](https://github.com/riyapawar18/DSA-LeetCode) spanning arrays, strings, linked lists, stacks, binary trees/BSTs, sliding window, and binary search.
+- **164 LeetCode problems solved** — 102 in C++, 54 in SQL, and 8 in Java ([leetcode.com/u/riyapawar18](https://leetcode.com/u/riyapawar18/)).
+- **94 published solutions** in [DSA-LeetCode](https://github.com/riyapawar18/DSA-LeetCode) (89 C++, 4 Java, 1 SQL), organized by problem and covering arrays, strings, linked lists, stacks, trees, sliding window, binary search, and dynamic programming.
 
 ## Achievements and leadership
 
@@ -142,6 +144,7 @@ I am open to **Java Full Stack, Backend, and Software Engineer internship / fres
 
 - **Email:** [riyapawar054@gmail.com](mailto:riyapawar054@gmail.com)
 - **LinkedIn:** [linkedin.com/in/riya-pawar-1a204b389](https://www.linkedin.com/in/riya-pawar-1a204b389)
+- **LeetCode:** [leetcode.com/u/riyapawar18](https://leetcode.com/u/riyapawar18/)
 - **GitHub:** [github.com/riyapawar18](https://github.com/riyapawar18)
 
 The best way to evaluate my work is to open a repository, follow its setup section, and read the limitations alongside the features.
